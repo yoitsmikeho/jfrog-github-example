@@ -127,7 +127,7 @@ jobs:
                 #jf rt build-add-git
                 jf rt build-publish
 
-            #- name: build scan
-            #  run: |            
-            #    jf build-scan
+            - name: build scan
+              run: |            
+                jf build-scan
 

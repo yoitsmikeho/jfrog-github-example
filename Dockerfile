@@ -1,4 +1,4 @@
-FROM alpine:3.18.6
+FROM alpine:3.18.2
 
 RUN mkdir pythonExample
 
